@@ -1,0 +1,16 @@
+CustomerID,Name,Age,Gender,Country,Product,Category,Quantity,Price,PurchaseDate
+1001,John Doe,28.0,0,USA,Laptop,ELE,1.0,1200.5,2025-06-15
+1002,Alice Smith,34.0,1,UK,Smartphone,ELE,2.0,699.99,2025-06-16
+1003,David Lee,45.0,0,Canada,Refrigerator,APP,1.0,899.0,2025-06-17
+1004,Maria Garcia,30.0,1,Mexico,Vacuum Cleaner,APP,1.0,299.99,2025-06-18
+1005,James Brown,38.0,0,USA,Desk Chair,FUR,3.0,149.99,2025-06-19
+1006,Emily Zhang,26.0,1,Australia,LED TV,ELE,1.0,499.95,2025-06-20
+1007,Michael Nguyen,52.0,0,Vietnam,Microwave,APP,2.0,199.5,2025-06-21
+1008,Sara Ali,29.0,1,UAE,Bookshelf,FUR,1.0,89.99,2025-06-22
+1009,Liam Patel,33.0,0,India,Tablet,ELE,1.0,299.0,2025-06-23
+1010,Chloe Kim,41.0,1,South Korea,Air Conditioner,APP,1.0,1200.0,2025-06-23
+1011,Noah Green,33.5,0,USA,Smartwatch,ELE,1.0,199.99,2025-06-24
+1012,Olivia White,27.0,1,UK,Coffee Table,FUR,2.0,349.99,2025-06-25
+1013,Ethan Black,36.0,0,Canada,Gaming Console,ELE,1.0,399.99,2025-06-26
+1014,Ava Scott,31.0,0,India,Blender,APP,1.0,89.5,2025-06-27
+1015,William Clark,40.0,0,Unknown,Wardrobe,FUR,1.0,499.0,2025-06-28

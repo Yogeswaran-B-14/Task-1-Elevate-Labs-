@@ -1,0 +1,16 @@
+CustomerID,Name,Age,Gender,Product,Quantity,Price,PurchaseDate,TotalAmount,Category_ELE,Category_FUR,Country_Canada,Country_India,Country_Mexico,Country_South Korea,Country_UAE,Country_UK,Country_USA,Country_Unknown,Country_Vietnam
+1001,John Doe,28.0,0,Laptop,1.0,1200.5,2025-06-15,1200.5,1,0,0,0,0,0,0,0,1,0,0
+1002,Alice Smith,34.0,1,Smartphone,2.0,699.99,2025-06-16,1399.98,1,0,0,0,0,0,0,1,0,0,0
+1003,David Lee,45.0,0,Refrigerator,1.0,899.0,2025-06-17,899.0,0,0,1,0,0,0,0,0,0,0,0
+1004,Maria Garcia,30.0,1,Vacuum Cleaner,1.0,299.99,2025-06-18,299.99,0,0,0,0,1,0,0,0,0,0,0
+1005,James Brown,38.0,0,Desk Chair,3.0,149.99,2025-06-19,449.97,0,1,0,0,0,0,0,0,1,0,0
+1006,Emily Zhang,26.0,1,LED TV,1.0,499.95,2025-06-20,499.95,1,0,0,0,0,0,0,0,0,0,0
+1007,Michael Nguyen,52.0,0,Microwave,2.0,199.5,2025-06-21,399.0,0,0,0,0,0,0,0,0,0,0,1
+1008,Sara Ali,29.0,1,Bookshelf,1.0,89.99,2025-06-22,89.99,0,1,0,0,0,0,1,0,0,0,0
+1009,Liam Patel,33.0,0,Tablet,1.0,299.0,2025-06-23,299.0,1,0,0,1,0,0,0,0,0,0,0
+1010,Chloe Kim,41.0,1,Air Conditioner,1.0,1200.0,2025-06-23,1200.0,0,0,0,0,0,1,0,0,0,0,0
+1011,Noah Green,33.5,0,Smartwatch,1.0,199.99,2025-06-24,199.99,1,0,0,0,0,0,0,0,1,0,0
+1012,Olivia White,27.0,1,Coffee Table,2.0,349.99,2025-06-25,699.98,0,1,0,0,0,0,0,1,0,0,0
+1013,Ethan Black,36.0,0,Gaming Console,1.0,399.99,2025-06-26,399.99,1,0,1,0,0,0,0,0,0,0,0
+1014,Ava Scott,31.0,0,Blender,1.0,89.5,2025-06-27,89.5,0,0,0,1,0,0,0,0,0,0,0
+1015,William Clark,40.0,0,Wardrobe,1.0,499.0,2025-06-28,499.0,0,1,0,0,0,0,0,0,0,1,0
