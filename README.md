@@ -1,5 +1,6 @@
 # Task-1-Elevate-Labs-
 Data Cleaning
+
 Missing Age
 Action: Filled missing values in the Age column using the median age.
 
@@ -16,6 +17,7 @@ Missing Price
 Action: Filled missing values in the Price column using the median.
 
 Preprocessing
+
 Gender Encoding
 Action: Converted categorical values in Gender to numeric codes:
 'M' → 0
@@ -25,6 +27,7 @@ Date Conversion
 Action: Converted the PurchaseDate column to datetime format for time-based analysis.
 
 Feature Engineering & Encoding:
+
 TotalAmount column added:
 Calculated as: Quantity × Price
 One-Hot Encoding:
